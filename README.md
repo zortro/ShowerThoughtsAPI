@@ -37,7 +37,7 @@ To install ShowerThoughtsDB clone the repository to any directory on your local 
 <a name="Usage"></a>
 ## Usage
 
-To use ShowerThoughtsDB run in a terminal window in the root folder, `npm start` to begin the server, from there use a program such as [Insomnia](https://insomnia.rest) to navigate users, thoughts, and friends utilizing id values. For further explanation please refer to the demonstration video.
+To use ShowerThoughtsDB run in a terminal window in the root folder, `npm start` to begin the server, from there use a program such as [Insomnia](https://insomnia.rest) to navigate users, thoughts, and friends utilizing id values. For further explanation please refer to the demonstration [video](https://drive.google.com/file/d/111m_0YOAqLPg-6tfURGVHjfFdBtuVLa3/view?usp=sharing).
 
 <!-- Testing -->
 <a name="testing"></a>
